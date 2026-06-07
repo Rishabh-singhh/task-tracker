@@ -1,6 +1,6 @@
 
 
-const API_URL = 'https://task-tracker-1-temf.onrender.com';
+const API_URL = 'https://task-tracker-1-temf.onrender.com/api/users';
 const authMessage = document.getElementById('auth-message');
 
 // --- LOGIN LOGIC ---
